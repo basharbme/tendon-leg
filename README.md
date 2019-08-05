@@ -2,7 +2,9 @@
 A repository for all the 3D printed parts required to make a robotic leg with two bi-articular tendons. Assembly instructions below.
 
 ## 3D Printing
-All parts successfully print after slicing in PrusaSlicer, and then printing with generic PLA on the Prusa i3 MK3 with MMU2 attachment. Some important print settings:
+All parts successfully print after slicing in PrusaSlicer, and then printing with generic PLA on the Prusa i3 MK3 with MMU2 attachment. After printing, supports must be removed from each object. For joints that will house bearings, please sand the holes until a bearing can be pressed in rather easily.
+
+Some important print settings:
 
 | Setting | Value |
 | --- | --- |
