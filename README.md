@@ -28,7 +28,7 @@ The parts in this repository can be used to make either an articulated robotic l
 | Active-D | 1 |
 | Active-E | 1 |
 | Dynamixel MX-106 | 2 |
-| Accompanying bracket mount for Dynamixel MX-106 | 2 |
+| X-Long Bracket for Dynamixel MX-106 (ASM-64106-HXL) | 2 |
 | Tendon-Mounting-Ring | 2 |
 | Ball bearings | 4 |
 | Assorted Screws + Bolts | X |
