@@ -36,6 +36,8 @@ The parts in this repository can be used to make either an articulated robotic l
 | Ball bearings | 4 |
 | Assorted Screws + Bolts | X |
 
+![Image of active leg](https://github.com/c3polab/tendon-leg-designs/blob/master/Images/Active-Assembley.png)
+
 ### Assembling the passive leg
 | Part | Quantity |
 | --- | --- |
