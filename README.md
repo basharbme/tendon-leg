@@ -21,6 +21,9 @@ Some important print settings:
 ## Assembly
 The parts in this repository can be used to make either an articulated robotic leg, or a passive one.
 
+### Joint Assembley
+![Image of tendy attachment](https://github.com/c3polab/tendon-leg-designs/blob/master/Images/Attatched-Tendon_small.png)
+
 ### Step 1 & 2
 ![Image of joint step 1 & 2](https://github.com/c3polab/tendon-leg-designs/blob/master/Images/Assembley-Joint-Step-1_small.png)
 
